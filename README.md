@@ -3,7 +3,7 @@
 ## Vrinda Store Dashboard
 
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/HagerSalahRamadan/Vrinda_Store-Interactive-Dashboard-Using-Excel/blob/main/Vrinda_Store_Dashboard.PNG)
 
 
 ## **Overview**
